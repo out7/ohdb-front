@@ -1,0 +1,27 @@
+{
+  "HomePage": {
+    "title": "Привет мир!",
+    "about": "Go to the about page"
+  },
+  "Deviations": {
+    "table": {
+      "image": "Иконка",
+      "name": "Имя",
+      "type": "Тип",
+      "preferences": "Предпочтения",
+      "seasons": "Сезоны",
+      "acquisitionMethods": "Способы получения"
+    },
+    "list": {
+      "test": {
+        "name": "Butterfly"
+      },
+      "devi 3": {
+        "name": "Festering Slime"
+      },
+      "test 2": {
+        "name": "Harveseed"
+      }
+    }
+  }
+}

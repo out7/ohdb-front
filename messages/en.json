@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Deviations": {
+    "list": {
+      "d-1": {
+        "name": "Devia 1",
+        "description": "Devia 1"
+      },
+      "d-2": {
+        "name": "Devia 2",
+        "description": "Devia 2"
+      }
+    }
+  }
+}
