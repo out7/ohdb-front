@@ -16,6 +16,7 @@ export default function Deviants() {
         const response = await fetch('http://localhost:3035/api/deviants');
         const data: Deviant[] = await response.json();
         setDeviants(data);
+        console.log(data)
       } catch (error) {
         console.error('Error fetching deviants data:', error);
       }

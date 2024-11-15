@@ -5,7 +5,7 @@ export default function Home() {
   const t = useTranslations('HomePage');
   return (
     <div className="">
-      ПУС
+      Главная страница
     </div>
   );
 }

@@ -24,7 +24,7 @@ export const createColumns = (t: (key: string) => string): ColumnDef<Deviant>[] 
     header: 'Icon',
     cell: ({ row }) => (
       <Image
-        src={row.original.image || '/deviants/default.png'}
+        src={`/deviants/${row.original.slug}.png`}
         alt={row.original.slug}
         width={64}
         height={64}

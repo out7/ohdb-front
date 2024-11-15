@@ -1,17 +1,26 @@
 {
   "HomePage": {
-    "title": "Hello world!",
+    "title": "Привет мир!",
     "about": "Go to the about page"
   },
   "Deviations": {
+    "table": {
+      "image": "Иконка",
+      "name": "Имя",
+      "type": "Тип",
+      "preferences": "Предпочтения",
+      "seasons": "Сезоны",
+      "acquisitionMethods": "Способы получения"
+    },
     "list": {
-      "d-1": {
-        "name": "Devia 1",
-        "description": "Devia 1"
+      "test": {
+        "name": "Butterfly"
       },
-      "d-2": {
-        "name": "Devia 2",
-        "description": "Devia 2"
+      "devi 3": {
+        "name": "Festering Slime"
+      },
+      "test 2": {
+        "name": "Harveseed"
       }
     }
   }

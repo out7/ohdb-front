@@ -13,14 +13,245 @@
       "acquisitionMethods": "Способы получения"
     },
     "list": {
-      "test": {
-        "name": "Butterfly"
+      "containments_cbt2_sco_me01": {
+        "name": "Девиант 1"
       },
-      "devi 3": {
-        "name": "Festering Slime"
+      "containments_cbt2_sco_me01_1": {
+        "name": "Девиант 1.1"
       },
-      "test 2": {
-        "name": "Harveseed"
+      "containments_cbt2_sco_me01_2": {
+        "name": "Девиант 1.2"
+      },
+      "containments_cbt2_sco_me02": {
+        "name": "Девиант 2"
+      },
+      "containments_cbt2_sco_me03": {
+        "name": "Девиант 3"
+      },
+      "containments_cbt2_sco_me04": {
+        "name": "Девиант 4"
+      },
+      "containments_cbt2_sco_me05": {
+        "name": "Девиант 5"
+      },
+      "containments_cbt2_sco_me07": {
+        "name": "Девиант 7"
+      },
+      "containments_cbt2_sco_me08": {
+        "name": "Девиант 8"
+      },
+      "containments_cbt2_sco_me08_1": {
+        "name": "Девиант 8.1"
+      },
+      "containments_cbt2_sco_me08_2": {
+        "name": "Девиант 8.2"
+      },
+      "containments_cbt2_sco_me09": {
+        "name": "Девиант 9"
+      },
+      "containments_cbt2_sco_me10": {
+        "name": "Девиант 10"
+      },
+      "containments_cbt2_sco_me11": {
+        "name": "Девиант 11"
+      },
+      "containments_cbt2_sco_me13": {
+        "name": "Девиант 13"
+      },
+      "containments_cbt2_sco_me14": {
+        "name": "Девиант 14"
+      },
+      "containments_cbt2_sco_me14_1": {
+        "name": "Девиант 14.1"
+      },
+      "containments_cbt2_sco_me14_2": {
+        "name": "Девиант 14.2"
+      },
+      "containments_cbt2_sco_me16": {
+        "name": "Девиант 16"
+      },
+      "containments_cbt2_sco_me18": {
+        "name": "Девиант 18"
+      },
+      "containments_cbt2_sco_me19": {
+        "name": "Девиант 19"
+      },
+      "containments_cbt2_sco_me19_4": {
+        "name": "Девиант 19.4"
+      },
+      "containments_cbt2_sco_me20": {
+        "name": "Девиант 20"
+      },
+      "containments_cbt2_sco_me20_1": {
+        "name": "Девиант 20.1"
+      },
+      "containments_cbt2_sco_me21": {
+        "name": "Девиант 21"
+      },
+      "containments_cbt2_sco_me22": {
+        "name": "Девиант 22"
+      },
+      "containments_cbt2_sco_me23": {
+        "name": "Девиант 23"
+      },
+      "containments_cbt2_sco_me24": {
+        "name": "Девиант 24"
+      },
+      "containments_cbt2_sco_me25": {
+        "name": "Девиант 25"
+      },
+      "containments_cbt2_sco_me26": {
+        "name": "Девиант 26"
+      },
+      "containments_cbt2_sco_me27": {
+        "name": "Девиант 27"
+      },
+      "containments_cbt2_sco_me28": {
+        "name": "Девиант 28"
+      },
+      "containments_cbt2_sco_me29_1": {
+        "name": "Девиант 29.1"
+      },
+      "containments_cbt2_sco_me29_2": {
+        "name": "Девиант 29.2"
+      },
+      "containments_cbt2_sco_me29_3": {
+        "name": "Девиант 29.3"
+      },
+      "containments_cbt2_sco_me29_4": {
+        "name": "Девиант 29.4"
+      },
+      "containments_cbt2_sco_me30": {
+        "name": "Девиант 30"
+      },
+      "containments_cbt2_sco_me31": {
+        "name": "Девиант 31"
+      },
+      "containments_cbt2_sco_me32": {
+        "name": "Девиант 32"
+      },
+      "containments_cbt2_sco_me32_1": {
+        "name": "Девиант 32.1"
+      },
+      "containments_cbt2_sco_me33": {
+        "name": "Девиант 33"
+      },
+      "containments_cbt2_sco_me34": {
+        "name": "Девиант 34"
+      },
+      "containments_cbt2_sco_me35": {
+        "name": "Девиант 35"
+      },
+      "containments_cbt2_sco_me36": {
+        "name": "Девиант 36"
+      },
+      "containments_cbt2_sco_me37": {
+        "name": "Девиант 37"
+      },
+      "containments_cbt2_sco_me37_1": {
+        "name": "Девиант 37.1"
+      },
+      "containments_cbt2_sco_me37_2": {
+        "name": "Девиант 37.2"
+      },
+      "containments_cbt2_sco_me38": {
+        "name": "Девиант 38"
+      },
+      "containments_cbt2_sco_me39": {
+        "name": "Девиант 39"
+      },
+      "containments_cbt2_sco_me40": {
+        "name": "Девиант 40"
+      },
+      "containments_cbt2_sco_me41": {
+        "name": "Девиант 41"
+      },
+      "containments_cbt2_sco_me42": {
+        "name": "Девиант 42"
+      },
+      "containments_cbt2_sco_me43": {
+        "name": "Девиант 43"
+      },
+      "containments_cbt2_sco_me44": {
+        "name": "Девиант 44"
+      },
+      "containments_cbt2_sco_me45": {
+        "name": "Девиант 45"
+      },
+      "containments_cbt2_sco_me46": {
+        "name": "Девиант 46"
+      },
+      "containments_cbt2_sco_me47": {
+        "name": "Девиант 47"
+      },
+      "containments_cbt2_sco_me48": {
+        "name": "Девиант 48"
+      },
+      "containments_cbt2_sco_me49": {
+        "name": "Девиант 49"
+      },
+      "containments_cbt2_sco_me49_3": {
+        "name": "Девиант 49.3"
+      },
+      "containments_cbt2_sco_me50": {
+        "name": "Девиант 50"
+      },
+      "containments_cbt2_sco_me51": {
+        "name": "Девиант 51"
+      },
+      "containments_cbt2_sco_me51_1": {
+        "name": "Девиант 51.1"
+      },
+      "containments_cbt2_sco_me51_10": {
+        "name": "Девиант 51.10"
+      },
+      "containments_cbt2_sco_me51_11": {
+        "name": "Девиант 51.11"
+      },
+      "containments_cbt2_sco_me51_2": {
+        "name": "Девиант 51.2"
+      },
+      "containments_cbt2_sco_me51_3": {
+        "name": "Девиант 51.3"
+      },
+      "containments_cbt2_sco_me51_4": {
+        "name": "Девиант 51.4"
+      },
+      "containments_cbt2_sco_me51_5": {
+        "name": "Девиант 51.5"
+      },
+      "containments_cbt2_sco_me51_6": {
+        "name": "Девиант 51.6"
+      },
+      "containments_cbt2_sco_me51_7": {
+        "name": "Девиант 51.7"
+      },
+      "containments_cbt2_sco_me51_8": {
+        "name": "Девиант 51.8"
+      },
+      "containments_cbt2_sco_me51_9": {
+        "name": "Девиант 51.9"
+      },
+      "containments_cbt2_sco_me52": {
+        "name": "Девиант 52"
+      },
+      "containments_cbt2_sco_me53": {
+        "name": "Девиант 53"
+      },
+      "containments_cbt2_sco_me54": {
+        "name": "Девиант 54"
+      },
+      "containments_cbt2_sco_me55": {
+        "name": "Девиант 55"
+      },
+      "containments_cbt2_sco_me56": {
+        "name": "Девиант 56"
+      },
+      "containments_cbt2_sco_me57": {
+        "name": "Девиант 57"
+      },
+      "containments_cbt2_sco_me58": {
+        "name": "Девиант 58"
       }
     }
   }
